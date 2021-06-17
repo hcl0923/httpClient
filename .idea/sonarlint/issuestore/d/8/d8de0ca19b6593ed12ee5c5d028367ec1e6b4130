@@ -1,0 +1,15 @@
+
+]	java:S125&"<This block of commented-out lines of code should be removed.(Ğ¯µèüÿÿÿÿ8É¡°’/
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8Ñ¼°’/
+>
+java:S1116"Remove this empty statement.(Åñ­õşÿÿÿÿ8¨¾à¯’/
+X
+java:S1854%";Remove this useless assignment to local variable "headers".(Áú×á8É¡°’/
+]	java:S125"<This block of commented-out lines of code should be removed.(“ƒ¥…ÿÿÿÿÿ8ùá¬°’/
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(é²ĞË8‚¦ï¯’/
+s
+java:S2095"QUse try-with-resources or close this "CloseableHttpClient" in a "finally" clause.(Ø€Øôşÿÿÿÿ8ŒÏÖ¯’/
+X	java:S125"<This block of commented-out lines of code should be removed.(´ƒ³²8ÁÏ–°’/
+X	java:S125,"<This block of commented-out lines of code should be removed.(’€×8ÔæŠ°’/
+I
+java:S1481%",Remove this unused "headers" local variable.(Áú×á8É¡°’/
